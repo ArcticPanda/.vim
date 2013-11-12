@@ -15,7 +15,7 @@ set ruler        "Always show the cursor position
 set number       "Show line numbers
 
 set title        "Show info in the window title
-set titlestring=EJNP:\ %F "Automatically set screen title
+set titlestring=ArcticSnail:\ %F "Automatically set screen title
 
 set confirm      "Start a dialog when a command fails (here when quit command fails)
 
